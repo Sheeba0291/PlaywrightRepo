@@ -1,0 +1,34 @@
+// Number
+let num =5;
+console.log(num);
+console.log(typeof num);
+
+// Boolean
+let isEnabled =true;
+console.log(isEnabled);
+console.log(typeof isEnabled);
+
+// String
+let myName ="Sheeba";
+let myCompanyName = 'Virtusa'
+let Designation = `QA Lead`
+console.log(myName);
+console.log(typeof myName);
+
+console.log(myCompanyName);
+console.log(typeof myCompanyName);
+
+console.log(Designation);
+console.log(typeof Designation);
+
+// Undefined
+
+let newCompany;
+console.log(newCompany);
+console.log(typeof newCompany);
+
+// Null
+
+let familyName = null
+console.log(familyName);
+console.log(typeof familyName);
